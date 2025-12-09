@@ -1,0 +1,583 @@
+
+--- Debugging: Big Data Analytics, Ph.D. (Page 156) ---
+   Shifted by 22 pages. New PDF Index: 177
+   Extracting 4 pages starting from PDF Index 177...
+
+==================================================
+
+--- PDF Page 178 | Printed Page 156 ---
+
+ 
+156 | Page  
+ 
+Big Data Analytics, Ph.D.  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Department: Dean's Office  
+Major Contacts, Deadlines, and Delivery Information 
+  
+The Ph.D. in Big Data Analytics is an interdisciplinary area of scientific methods, processes and systems to extract 
+knowledge and insight from large, diverse data sets that include structured, semi -structured and unstructured data, from 
+different sources, and in different sizes.  This interdisciplinary major comprises faculty from Artificial Intelligence, Computer 
+Science, Engineering, Business, Arts and Sciences, Public Health, and other areas.   Students in the program will develop 
+broad theoretical and applied skills, including how to design, implement, and evaluate information -focused big data 
+technologies that support decision-making across social and organizational contexts. 
+Major Research Areas: 
+Big Data, Data Analytics, Data Mining, Database Management, Statistical Computing, Ethics and Human Factors, Artificial 
+Intelligence, Machine Learning, Data Science, Experiment Design  
+Admission Information 
+Must meet University Admission and English Proficiency requirements as well as requirements for admission to the major, 
+listed below. 
+• Three letters of recommendation 
+• Personal statement of purpose/interest 
+• Resume/CV 
+• PDF of unofficial or official transcripts 
+• PDF of English proficiency, if needed 
+• Master's degree in a relevant area preferred 
+• Prior training and/or experience in technology, including areas such as computer programming through data 
+structures, database management systems, linear algebra, and networking and graph theory.   Each student will be 
+reviewed to determine their level of technical qualifications to pursue the Ph.D.  If deficiencies are noted, additional 
+suggested coursework may be required for admission. 
+• The GRE is suggested but not required.  Applicants may provide a PDF of unofficial GRE scores.  
+All applications will be reviewed by an interdisciplinary Doctoral Program Committee that will be charged with making 
+recommendations for admissions.  This committee will also, as applicable, recommend applications for consideration for 
+financial aid or assistantships that are available. 
+  
+Foundation Courses 
+Students are expected to have completed coursework in the foundation areas of data structures, linear algebra and graph 
+theory prior to entering the program.   
+•    COP 5532 Data Structures Essentials (2 credits) 
+•    COP 5008 Computing Essentials (2 credits) 
+•    COT 5105 Discrete Structures Essentials (2 credits) 
+•    COP 5230 Object-Oriented Programming Essentials (2 credits) 
+•    COT 5407 Algorithms Essentials (2 credits)        
+
+--------------------------------------------------
+
+--- PDF Page 179 | Printed Page 157 ---
+
+ 
+157 | Page  
+ 
+•    MAS 3105 Linear Algebra -(3 credits) (refer to Undergraduate Catalog for information)    
+•    MAD 4301 Introduction to Graph Theory - (3 credits) (refer to Undergraduate Catalog for information)    
+Students can demonstrate proficiency in these areas by having completed coursework at USF (Courses or Certificate) or 
+equivalent courses at a different institution, as approved by the Graduate Director before registration in the program's core 
+courses. These credits do not count as part of the Ph.D. minimum hour requirements.  
+Curriculum Requirements 
+Total Minimum Hours - 72 hours post-bachelor's 
+• Core - 6 Credit Hours 
+• Human Issues Courses - 15 Credit Hours 
+• Computational Factors Courses - 12 Credit Hours 
+• Mathematical/Statistical Courses - 9 Credidt Hours 
+• Electives - 3 Credit Hours  
+• Practicum/Independent Study - 3 Credit Hours Minimum 
+• Dissertation - 24 Credit Hours Minimum 
+Core (6 Credit Hours) 
+• CAI 5005 Introduction to Artificial Intelligence Credit Hours: 3 
+• ISM 7936 Design Science Research Seminar Credit Hours: 3 
+Course Requirements: 
+The curriculum is divided into three different areas (Human Issues, Computational Factors, and Mathematical and   Statistical 
+Processes) from which students are required to gain competency.  
+Students must take at least one course (or two if specified) from each of the categories listed below each area.    
+  
+Human Issues Courses (15 Credit Hours) 
+Ethics and Privacy (3 Credit Hours) 
+Select one: 
+• GEB 6445 Social, Ethical, and Legal Systems Credit Hours: 3 
+• GEB 6457 Ethics, Law and Sustainable Business Practices Credit Hours: 3 
+• CAI 5026 Ethical Issues in Artificial Intelligence Credit Hours: 3 
+Cognitive Biases Impact on Modeling, Decision Making (3 Credit Hours)  
+Select one: 
+• EXP 7099 Graduate Seminar in Experimental Psychology Credit Hours: 1-3 
+• EXP 6608 Cognitive Psychology Credit Hours: 3 
+
+--------------------------------------------------
+
+--- PDF Page 180 | Printed Page 158 ---
+
+ 
+158 | Page  
+ 
+Data Communication and Storytelling (3 Credit Hours) 
+Select one: 
+• ISM 6419 Data Visualization Credit Hours: 3 
+• CAP 5745 Interactive Data Visualization Credit Hours: 3 
+• LIS 5318 Visual Analytics Credit Hours: 3 
+• MMC 6456 Media Storytelling with Data Credit Hours: 3 
+• PSY 6220 Presentation and Data Visualization Credit Hours: 3 
+Causality and Experimentation (6 Credit Hours) 
+Select two: 
+• EDF 7474 Applied Multilevel Modeling in Education Credit Hours: 3 
+• ESI 6247 Statistical Design Models Credit Hours: 3 
+• STA 6205 Design of Experiments Credit Hours: 3 
+• PSY 6217 Research Methods and Measurement Credit Hours: 2-4 
+• PHC 6020 Clinical Trials: Design, Conduct, and Analysis Credit Hours: 3 
+Computational Factors (12 Credit Hours) 
+Artificial Intelligence and Deep Learning (6 Credit Hours) 
+• CAI 5307 Natural Language Processing Credit Hours: 3 
+• CAI 5205 Deep Learning Credit Hours: 3 
+• CAI 5615 Affective Computing Credit Hours: 3 
+• CAI 5815 Autonomous Mobile Robots Credit Hours: 3 
+• CAI 5845 Computer Vision Credit Hours: 3 
+• CAI 5846 Digital Image Processing Credit Hours: 3 
+• CAP 6632 Automated Reasoning and Theorem Proving Credit Hours: 3 
+• CAP 6455 Advanced Robotic Systems Credit Hours: 3 
+• CAP 6672 Robot Intelligence and Computer Vision Credit Hours: 3 
+• ISM 6561 Deep Learning Credit Hours: 3 
+Machine Learning, Data Mining and Big Data (6 Credit Hours) 
+Select two: 
+• CAI 5135 Data Mining Credit Hours: 3 
+• ISM 6136 Data Mining Credit Hours: 3 
+• ESI 6635 Advanced Analytics I Credit Hours: 3 
+• ISM 6251 Machine Learning Credit Hours: 3 
+• CAI 5107 Machine Learning Credit Hours: 3 
+• ESI 6681 Deep Learning Analytics Credit Hours: 3 
+• ESI 6613 Applied Data Intelligence Credit Hours: 3 
+• ISM 6564 Text Analytics Credit Hours: 3 
+• ISM 6642 Advanced Data Science Credit Hours: 3 
+• ISM 6218 Advanced Database Management Credit Hours: 3 
+
+--------------------------------------------------
+
+--- PDF Page 181 | Printed Page 159 ---
+
+ 
+159 | Page  
+ 
+• ISM 6562 Big Data for Business Credit Hours: 3 
+Mathematical and Statistical Processes (9 Credit Hours) 
+Mathematics (3 Credit Hours) 
+Select one: 
+• STA 5326 Mathematical Statistics I Credit Hours: 3 
+• STA 5446 Probability Theory I Credit Hours: 3 
+Statistics (3 Credit Hours) 
+Select one: 
+• STA 6876 Time Series Analysis Credit Hours: 3 
+• STA 6703 Statistical Learning Theory and Applications Credit Hours: 3 
+• STA 6746 Multivariate Analysis Credit Hours: 3 
+• STA 6208 Linear Statistical Models Credit Hours: 3 
+• STA 6206 Stochastic Processes Credit Hours: 3 
+• STA 5526 Non-Parametric Statistics Credit Hours: 3 
+• ISM 6137 Advanced Statistical Modeling Credit Hours: 3 
+Optimization (3 Credit Hours) 
+Select one: 
+• MAP 6205 Control Theory and Optimization Credit Hours: 3 
+• ESI 6491 Linear Programming and Network Optimization Credit Hours: 3 
+• ESI 6448 Integer Programming Credit Hours: 3 
+• ESI 6684 Decision Making with Deep Reinforcement Learning Credit Hours: 3 
+• ESI 6493 Multi-Objective Optimization Credit Hours: 3 
+• ESI 6410 Optimization Methods with Applications Credit Hours: 3 
+• ESI 5522 Computer Simulation Credit Hours: 3 
+Electives (3 Credit Hours Minimum) 
+Students are expected to take at least one three (3) credit hour elective course chosen in consultation with the Graduate 
+Director.  
+The elective course can be in the area of the student's specialization from one of the three perspective areas, or outside in  
+consultation and approval by the Major Professor and the Graduate Director.  
+  
+• ISM 6905 Independent Study Credit Hours: 1-6 
+• IDS 6940 Cooperative Internship Credit Hours: 0-6 
+• Other elective graduate course approved by the Graduate Director 
+Practicum/Independent Study (3 Credit Hours Minimum) 
+
+--------------------------------------------------
+==================================================
+
+--- Debugging: Comparative Literary Studies Graduate Certificate (Page 192) ---
+   Shifted by 22 pages. New PDF Index: 213
+   Extracting 4 pages starting from PDF Index 213...
+
+==================================================
+
+--- PDF Page 214 | Printed Page 192 ---
+
+ 
+192 | Page  
+ 
+C omparative Literary S tudies Graduate C ertificate  
+College of Arts and Sciences  
+Department: Dean's Office 
+Certificate Contacts, Deadlines, and Delivery Information   
+  
+Office of Graduate Certificates Website  
+Graduate Certificate Policies   
+  
+The Comparative Literary Studies Graduate Certificate provides an in-depth exploration of how different national 
+literatures are interconnected and how they relate to other disciplines such as art, music, history, psychology, philosophy, and 
+politics.   Graduate students in degree programs in other USF departments such as Philosophy, World Languages, and others 
+are encouraged to apply.   
+ Upon completion of this Certificate, students will have developed further skills in comparative or interdisciplinary stu dies and 
+enhanced their teaching and research credentials for people graduating with a Ph.D. in Literature or other discipline.   
+ 
+For careers beyond academe, graduates of this Certificate offer advanced skills in research, writing, and critical thinking and 
+have knowledge that can be applied to work in the arts, publishing, broadcasting, journalism, museums, public administration,  
+and more. 
+Graduate Certificate Admissions and Process 
+Students must apply and be admitted into the Graduate Certificate to be eligible to receive a Graduate Certificate. Applicant s 
+are encouraged to contact the Graduate Certificate Director prior to applying.   
+Applicants must meet the following admission requirements: 
+1. University Admission Requirements, including English Proficiency    
+2. Graduate Certificate Admission Requirements    
+3. Application Process  
+Additional Admission Requirements 
+• Contact the Graduate Certificate Director before applying. 
+• All applications should include:  
+o Statement of Intent for comparative literary study.  This statement should identify their two 
+languages/literatures or two disciplines. 
+Curriculum Requirements (12 Credit Hours) 
+Required: 
+• ENG 6019 Studies in Criticism and Theory II Credit Hours: 3 
+• ENG 6939 Graduate Seminar in English Credit Hours: 3 
+  
+And select two courses (6 Credit Hours) with one course taken in Literature from the list below and one 
+course taken outside of Literature selected in consultation with the Graduate Certificate Director:  
+
+--------------------------------------------------
+
+--- PDF Page 215 | Printed Page 193 ---
+
+ 
+193 | Page  
+ 
+• ENL 6206 Studies in Old English Credit Hours: 3 
+• ENL 6216 Studies in Middle English Credit Hours: 3 
+• ENL 6226 Studies in Sixteenth-Century British Literature Credit Hours: 3 
+• ENL 6228 Studies in Seventeenth-Century British Literature Credit Hours: 3 
+• AML 6017 Studies in American Literature to 1860 Credit Hours: 3 
+• ENL 6246 Studies of the English Romantic Period Credit Hours: 3 
+• ENL 6256 Studies in Victorian Literature Credit Hours: 3 
+• AML 6018 Studies in American Literature 1860 to 1920 Credit Hours: 3 
+• AML 6027 Studies in Modern American Literature Credit Hours: 3 
+• ENL 6276 Studies in Modern British Literature Credit Hours: 3 
+• LIT 6096 Studies in Contemporary Literature Credit Hours: 3 
+• GMS 6094 Experimental Design and Analysis Credit Hours: 3 
+• AML 6608 Studies in African American Literature Credit Hours: 3 
+Or other graduate course approved by the Certificate Director 
+Graduate Certificate Time Limit 
+Five (5) Years. 
+Graduate Certificate Completion 
+For procedures to confirm completion of the Graduate Certificate, please refer to the  website. 
+
+--------------------------------------------------
+
+--- PDF Page 216 | Printed Page 194 ---
+
+ 
+194 | Page  
+ 
+C reative W riting Graduate C ertificate  
+College of Arts and Sciences  
+Department: Dean's Office 
+Certificate Contacts, Deadlines, and Delivery Information   
+  
+Office of Graduate Certificates Website  
+Graduate Certificate Policies   
+  
+The Creative Writing Certificate provides expert instruction, a supportive atmosphere, and a well‐structured program. The 
+Graduate Certificate fulfills the needs for both degree seeking (internal) and non ‐degree seeking (external) students. It 
+provides students enrolled in traditional graduate programs with opportunity to develop their writing skills, widen the scope  of 
+their graduate education, and enhance their employment opportunities. Additionally, it p rovides an ideal learning environment 
+for students who, although not pursuing a Master's degree in English, want to acquire the necessary skills for creative writi ng. 
+Graduate Certificate Admissions and Process 
+Students must apply and be admitted into the Graduate Certificate to be eligible to receive a Graduate Certificate. Applicants 
+are encouraged to contact the Graduate Certificate Director prior to applying.   
+Applicants must meet the following admission requirements: 
+1. University Admission Requirements, including English Proficiency    
+2. Graduate Certificate Admission Requirements    
+3. Application Process  
+Additional Admissions Requirements 
+In addition, must also submit the following with the application form: 
+• a writing sample 
+Curriculum Requirements (15 Credit Hours) 
+Required Courses (6 credit hours): 
+Select two of the following graduate courses: 
+  
+• CRW 6164 The Craft of Fiction Credit Hours: 3 
+• CRW 6130 Fiction Writing Credit Hours: 3 
+• CRW 6352 The Craft of Poetry Credit Hours: 3 
+• CRW 6331 Poetry Writing Credit Hours: 3 
+• CRW 6231 The Craft of Nonfiction Credit Hours: 3 
+• CRW 6236 Nonfiction Writing Credit Hours: 3 
+  
+Elective Courses (9 credit hours): 
+Select three additional courses from either the list above (if not already taken) or the courses listed below.  
+
+--------------------------------------------------
+
+--- PDF Page 217 | Printed Page 195 ---
+
+ 
+195 | Page  
+ 
+  
+• ENG 6018 Studies in Criticism and Theory I Credit Hours: 3 
+• LIT 6096 Studies in Contemporary Literature Credit Hours: 3 
+• LIT 6934 Selected Topics in English Studies Credit Hours: 1-6 approved by the Creative Writing Coordinator or 
+Graduate Director 
+• Any 6000-level literature course or other graduate course approved by the Graduate Certificate Director.  
+Graduate Certificate Time Limit 
+Five (5) Years. 
+Graduate Certificate Completion 
+For procedures to confirm completion of the Graduate Certificate, please refer to the  website. 
+
+--------------------------------------------------
+==================================================
+
+--- Debugging: Creative Writing Graduate Certificate (Page 194) ---
+   Shifted by 22 pages. New PDF Index: 215
+   Extracting 4 pages starting from PDF Index 215...
+
+==================================================
+
+--- PDF Page 216 | Printed Page 194 ---
+
+ 
+194 | Page  
+ 
+C reative W riting Graduate C ertificate  
+College of Arts and Sciences  
+Department: Dean's Office 
+Certificate Contacts, Deadlines, and Delivery Information   
+  
+Office of Graduate Certificates Website  
+Graduate Certificate Policies   
+  
+The Creative Writing Certificate provides expert instruction, a supportive atmosphere, and a well‐structured program. The 
+Graduate Certificate fulfills the needs for both degree seeking (internal) and non ‐degree seeking (external) students. It 
+provides students enrolled in traditional graduate programs with opportunity to develop their writing skills, widen the scope  of 
+their graduate education, and enhance their employment opportunities. Additionally, it p rovides an ideal learning environment 
+for students who, although not pursuing a Master's degree in English, want to acquire the necessary skills for creative writi ng. 
+Graduate Certificate Admissions and Process 
+Students must apply and be admitted into the Graduate Certificate to be eligible to receive a Graduate Certificate. Applicants 
+are encouraged to contact the Graduate Certificate Director prior to applying.   
+Applicants must meet the following admission requirements: 
+1. University Admission Requirements, including English Proficiency    
+2. Graduate Certificate Admission Requirements    
+3. Application Process  
+Additional Admissions Requirements 
+In addition, must also submit the following with the application form: 
+• a writing sample 
+Curriculum Requirements (15 Credit Hours) 
+Required Courses (6 credit hours): 
+Select two of the following graduate courses: 
+  
+• CRW 6164 The Craft of Fiction Credit Hours: 3 
+• CRW 6130 Fiction Writing Credit Hours: 3 
+• CRW 6352 The Craft of Poetry Credit Hours: 3 
+• CRW 6331 Poetry Writing Credit Hours: 3 
+• CRW 6231 The Craft of Nonfiction Credit Hours: 3 
+• CRW 6236 Nonfiction Writing Credit Hours: 3 
+  
+Elective Courses (9 credit hours): 
+Select three additional courses from either the list above (if not already taken) or the courses listed below.  
+
+--------------------------------------------------
+
+--- PDF Page 217 | Printed Page 195 ---
+
+ 
+195 | Page  
+ 
+  
+• ENG 6018 Studies in Criticism and Theory I Credit Hours: 3 
+• LIT 6096 Studies in Contemporary Literature Credit Hours: 3 
+• LIT 6934 Selected Topics in English Studies Credit Hours: 1-6 approved by the Creative Writing Coordinator or 
+Graduate Director 
+• Any 6000-level literature course or other graduate course approved by the Graduate Certificate Director.  
+Graduate Certificate Time Limit 
+Five (5) Years. 
+Graduate Certificate Completion 
+For procedures to confirm completion of the Graduate Certificate, please refer to the  website. 
+
+--------------------------------------------------
+
+--- PDF Page 218 | Printed Page 196 ---
+
+ 
+196 | Page  
+ 
+C yber Intelligence Graduate C ertificate  
+College of Arts and Sciences  
+Department: Dean's Office 
+Certificate Contacts, Deadlines, and Delivery Information   
+  
+Office of Graduate Certificates Website  
+Graduate Certificate Policies   
+  
+The Graduate Certificate in Cyber Intelligence prepares you to acquire and assess the intentions, capabilities, and 
+activities of potential adversaries and insiders who pose a threat, including attack methods that target people to penetrate 
+systems, sometimes referred to as social engineering. 
+ 
+Learn to generate and evaluate courses of action to manage risks, counter vulnerabilities and enhance organizational 
+decision-making as you develop an understanding of how intelligence drives a cybersecurity mission.  
+  
+Graduate Certificate Admissions and Process 
+Students must apply and be admitted into the Graduate Certificate to be eligible to receive a Graduate Certificate. Applicant s 
+are encouraged to contact the Graduate Certificate Director prior to applying.   
+Applicants must meet the following admission requirements: 
+1. University Admission Requirements, including English Proficiency    
+2. Graduate Certificate Admission Requirements    
+3. Application Process  
+Additional Admission Requirements 
+In addition, the following are required: 
+• Professional résumé 
+• Statement of Purpose (max 500 words) 
+• Coursework or background in programming concepts, computer architecture, operating systems concepts (not just 
+user-level experience), computer hardware, and computer networks, which can be met through an undergraduate 
+degree in a computing discipline, equivalent documented work experience, or through an approved "bridge 
+program." 
+Curriculum Requirements (18 Credit Hours) 
+• LIS 6107 Advanced Professional & Technical Communication for Analysts Credit Hours: 3 
+• LIS 6700 Information Strategy and Decision-Making Credit Hours: 3 
+• LIS 6702 Advanced Intelligence Analytic Methods Credit Hours: 3 
+• LIS 6703 Core Concepts in Intelligence Credit Hours: 3 
+• LIS 6709 Cyber Intelligence Credit Hours: 3 
+
+--------------------------------------------------
+
+--- PDF Page 219 | Printed Page 197 ---
+
+ 
+197 | Page  
+ 
+• LIS 6670 Advanced Cyber Intelligence Credit Hours: 3 
+Graduate Certificate Time Limit 
+Five (5) Years. 
+Graduate Certificate Completion 
+For procedures to confirm completion of the Graduate Certificate, please refer to the  website. 
+
+--------------------------------------------------
+==================================================
+
+--- Debugging: Cyber Intelligence Graduate Certificate (Page 196) ---
+   Shifted by 22 pages. New PDF Index: 217
+   Extracting 4 pages starting from PDF Index 217...
+
+==================================================
+
+--- PDF Page 218 | Printed Page 196 ---
+
+ 
+196 | Page  
+ 
+C yber Intelligence Graduate C ertificate  
+College of Arts and Sciences  
+Department: Dean's Office 
+Certificate Contacts, Deadlines, and Delivery Information   
+  
+Office of Graduate Certificates Website  
+Graduate Certificate Policies   
+  
+The Graduate Certificate in Cyber Intelligence prepares you to acquire and assess the intentions, capabilities, and 
+activities of potential adversaries and insiders who pose a threat, including attack methods that target people to penetrate 
+systems, sometimes referred to as social engineering. 
+ 
+Learn to generate and evaluate courses of action to manage risks, counter vulnerabilities and enhance organizational 
+decision-making as you develop an understanding of how intelligence drives a cybersecurity mission.  
+  
+Graduate Certificate Admissions and Process 
+Students must apply and be admitted into the Graduate Certificate to be eligible to receive a Graduate Certificate. Applicant s 
+are encouraged to contact the Graduate Certificate Director prior to applying.   
+Applicants must meet the following admission requirements: 
+1. University Admission Requirements, including English Proficiency    
+2. Graduate Certificate Admission Requirements    
+3. Application Process  
+Additional Admission Requirements 
+In addition, the following are required: 
+• Professional résumé 
+• Statement of Purpose (max 500 words) 
+• Coursework or background in programming concepts, computer architecture, operating systems concepts (not just 
+user-level experience), computer hardware, and computer networks, which can be met through an undergraduate 
+degree in a computing discipline, equivalent documented work experience, or through an approved "bridge 
+program." 
+Curriculum Requirements (18 Credit Hours) 
+• LIS 6107 Advanced Professional & Technical Communication for Analysts Credit Hours: 3 
+• LIS 6700 Information Strategy and Decision-Making Credit Hours: 3 
+• LIS 6702 Advanced Intelligence Analytic Methods Credit Hours: 3 
+• LIS 6703 Core Concepts in Intelligence Credit Hours: 3 
+• LIS 6709 Cyber Intelligence Credit Hours: 3 
+
+--------------------------------------------------
+
+--- PDF Page 219 | Printed Page 197 ---
+
+ 
+197 | Page  
+ 
+• LIS 6670 Advanced Cyber Intelligence Credit Hours: 3 
+Graduate Certificate Time Limit 
+Five (5) Years. 
+Graduate Certificate Completion 
+For procedures to confirm completion of the Graduate Certificate, please refer to the  website. 
+
+--------------------------------------------------
+
+--- PDF Page 220 | Printed Page 198 ---
+
+ 
+198 | Page  
+ 
+Data Analysis (Psychology) Graduate Certificate  
+College of Arts and Sciences  
+Department: Dean's Office 
+Certificate Contacts, Deadlines, and Delivery Information   
+  
+Office of Graduate Certificates Website  
+Graduate Certificate Policies   
+  
+The Graduate Certificate in Data Analysis is designed for students interested in acquiring knowledge and skills related to 
+research methods and statistical methods. This information will be useful for students pursuing doctoral studies in psycholog y 
+or related fields as well as students in or entering the workforce who are interested in jobs requiring data analytic skills. Upon 
+completion of the Graduate Certificate, students will be able to:  
+• Recognize and understand appropriate use of major research designs and statistical methods of the field.  
+• Write clear and precise summaries of data analysis and findings when presented with raw data and prepare a power 
+point presentation to succinctly communicate program evaluation findings to a mock community agency.  
+• Demonstrate the ability to effectively analyze and synthesize information in multiple formats (e.g., written narratives, 
+bulleted summaries, oral presentation). 
+Graduate Certificate Admissions and Process 
+Students must apply and be admitted into the Graduate Certificate to be eligible to receive a Graduate Certificate. Applicant s 
+are encouraged to contact the Graduate Certificate Director prior to applying.   
+Applicants must meet the following admission requirements: 
+1. University Admission Requirements, including English Proficiency    
+2. Graduate Certificate Admission Requirements    
+3. Application Process  
+Additional Admission Requirements 
+• GRE Scores 
+Curriculum Requirements 
+Required: 
+• PSY 6065 Introduction to Advanced Psychology Credit Hours: 1-4 (3 Credit Hours for this program) 
+  
+Experimental Design and ANOVA (3 credit hours for this program) 
+Satisfied by one of the following: 
+• PSY 6217 Research Methods and Measurement Credit Hours: 2-4 (3 Credit Hours for this program) 
+• PSY 6208 Experimental Design and Analysis of Variance Credit Hours: 3 
+  
+Multiple Regression (3 credit hours required) 
+Satisfied by one of the following: 
+
+--------------------------------------------------
+
+--- PDF Page 221 | Printed Page 199 ---
+
+ 
+199 | Page  
+ 
+• PSY 6218 Graduate Research Methods Credit Hours: 3 
+• PSY 6206C Regression and Generalized Linear Models Credit Hours: 4 
+  
+One Graduate-Level Elective Course in data analysis (3 credit hours required) 
+Satisifed by Program Evaluation or Grant Writing, currently offered as:  
+• SOP 6709 Topics in Social Psychology Credit Hours: 3 or another data-focused elective with prior approval by the 
+Graduate Director.   
+  
+Students must earn at least a B average (3.00 GPA) across all four courses to qualify for the Graduate 
+Certificate. 
+  
+Graduate Certificate Time Limit 
+Five (5) Years. 
+Graduate Certificate Completion 
+For procedures to confirm completion of the Graduate Certificate, please refer to the  website. 
+Contacts 
+Contact Information: http://www.grad.usf.edu/cert 
+
+--------------------------------------------------
+==================================================

@@ -1,0 +1,128 @@
+--- Smart Extraction for Target Printed Page: 153 ---
+1. Checking Naive PDF Index: 152 (PDF Page 153)
+   Found Printed Page Number: 131
+2. Detected Offset! Shift needed: 22 pages
+   New Target PDF Index: 174 (PDF Page 175)
+
+3. Extracting 3 pages starting from PDF Index 174...
+
+==================================================
+
+--- PDF Page 175 | Printed Page 153 ---
+
+ 
+153 | Page  
+ 
+A rtificial Intelligence, M .S .A .I.  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Department of Artificial Intelligencer, Cybersecurity, and Computing  
+Major Contacts, Deadlines, and Delivery Information 
+  
+This major shares a core with the Cybersecurity, M.S.C.Y.S.  
+The Master of Science in Artificial Intelligence (M.S.A.I.) provides comprehensive training in foundational computer 
+science and artificial intelligence concepts while emphasizing practical applications and real -world problem-solving. Designed 
+specifically for students without an undergraduate degree in Computer Science or Computer Engineering, the program equips 
+graduates with the technical skills necessary to transition into AI-focused roles across various industries. The M.S.A.I. is 
+available in both in-person and online formats, offering flexibility to accommodate diverse learning needs. Due to the 
+interdisciplinary nature of AI and the diverse applications it encompasses, students are encouraged to work closely with the 
+Graduate Director to develop a cohesive plan of study tailored to their individual goals. Applicants with prior computing 
+backgrounds are advised to consider the M.S. in Computer Science program or the AI Graduate Certificate for a more 
+advanced pathway. 
+Major Research Areas: 
+Machine learning (ML), neural networks, deep learning, natural language processing (NLP), computer vision, robotics and 
+autonomous systems, knowledge representation and reasoning, ethics and policy in AI, AI tools and frameworks, AI in 
+healthcare, finance, education, marketing, and other industries 
+Admission Information 
+Must meet University Admission and English Proficiency requirements as well as requirements for admission to the major, 
+listed below. 
+• Three letters of recommendation. 
+• Statement of purpose. 
+• Resume. 
+• PDF of unofficial transcripts. 
+• PDF of English proficiency, if needed. 
+• Evidence of mathematics, problem-solving, and quantitative reasoning abilities either through undergraduate 
+coursework or standardized test scores, such as GRE quantitative score.  
+Curriculum Requirements 
+Total Minimum hours: 31 Credit Hours  
+•    Shared Core Requirements - 6 Credit Hours 
+•    Additional required courses -16 Credit hours 
+•    Electives - 9 Credit Hours 
+Shared Core Requirements (6 Credit Hours) 
+Successful completion with a letter grade "B" or better of the two core graduate -level courses is required. 
+• CAI 5005 Introduction to Artificial Intelligence Credit Hours: 3 
+
+--------------------------------------------------
+
+--- PDF Page 176 | Printed Page 154 ---
+
+ 
+154 | Page  
+ 
+• COP 6536 Advances in Data Structures for IT Credit Hours: 3 
+Additional Required Courses (16 Credit Hours) 
+Successful completion with a letter grade "B" or better: 
+• COP 5008 Computing Essentials Credit Hours: 2 
+• COT 5105 Discrete Structures Essentials Credit Hours: 2 
+• COP 5532 Data Structures Essentials Credit Hours: 2 
+• CAI 5035 Mathematics for Artificial Intelligence Credit Hours: 3 
+• COP 5230 Object-Oriented Programming Essentials Credit Hours: 2 
+• COT 5407 Algorithms Essentials Credit Hours: 2 
+• CAI 5026 Ethical Issues in Artificial Intelligence Credit Hours: 3 
+Electives (9 Credit Hours Minimum) 
+With prior permission from the Graduate Director, students can take a maximum of 3 hours of Independent Study or 
+Internship, a maximum of three (3) hours of one-hour seminar courses. 
+Graduate elective courses are separated into two categories: deepening and broadening. Students must select at least 6 
+hours from the list of deepening electives and at least 3 hours from the list of broadening electives in consultation with the 
+Graduate Director. 
+Examples of deepening AI courses (6 Credit Hours):  
+• CAI 5135 Data Mining Credit Hours: 3 
+• CAI 5205 Deep Learning Credit Hours: 3 
+• CAI 5307 Natural Language Processing Credit Hours: 3 
+• CAI 5615 Affective Computing Credit Hours: 3 
+• CAI 5815 Autonomous Mobile Robots Credit Hours: 3 
+• CAI 5845 Computer Vision Credit Hours: 3 
+• CAI 5846 Digital Image Processing Credit Hours: 3 
+• CAI 6605 Trustworthy AI Systems Credit Hours: 3 
+• CAP 6100 Human Computer Interface Credit Hours: 3 
+• CAP 6109 Brain-Computer Interfaces Credit Hours: 3 
+• CAP 6455 Advanced Robotic Systems Credit Hours: 3 
+• CAP 6632 Automated Reasoning and Theorem Proving Credit Hours: 3 
+• CAP 6672 Robot Intelligence and Computer Vision Credit Hours: 3 
+• CIS 6900 Independent Study Credit Hours: 1-19 
+• CIS 6930 Special Topics Credit Hours: 1-5 
+taken as: 
+• Topics in NLP (3 Credit Hours for this program) 
+• Social Network Analysis (3 Credit Hours for this program) 
+• Security & Privacy in ML (3 Credit Hours for this program) 
+• Hardware Accelerators for ML (3 Credit Hours for this program)    
+• Augmented Reality (3 Credit Hours for this program) 
+• Computational Methods for Imaging (3 Credit Hours for this program) 
+• Smart & Connected Health (3 Credit Hours for this program) 
+• Seminar in AI Credit Hours: (1 Credit Hour for this program) 
+
+--------------------------------------------------
+
+--- PDF Page 177 | Printed Page 155 ---
+
+ 
+155 | Page  
+ 
+• CIS 6946 Internships/Practicums/Clinical Practice Credit Hours: 0-3 
+• Or other graduate course approved by the Graduate Director 
+  
+Examples of broadening AI elective courses (3 Credit Hours): 
+• ISM 7930 Selected Topics in Management Information Systems Credit Hours: 1-3 taken as Fundamentals of AI 
+(3 Credit Hours for this program) 
+• RED 6449 AI Literacy and Technology: Navigating Extended Reality, Interactive Media, Gaming, and Cyberspace 
+Credit Hours: 3 
+• Special Topics Course taken as AI Literacy and Technology, Navigating Extended Reality, Interactive Media, 
+Gaming, and Cyberspace (3 Credit Hours for this Program) (Proposed as RED 5449)  
+• JOU 5367 AI and the Future of Media: Trends, Technologies & Ethics Credit Hours: 3 
+• Or other graduate course approved by the Graduate Director 
+Comprehensive Exam 
+Students must pass the comprehensive exam in the semester prior to the semester of graduation.  
+Exit Survey 
+All students are required to complete the College exit survey. 
+
+--------------------------------------------------
+==================================================

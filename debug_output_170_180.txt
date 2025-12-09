@@ -1,0 +1,358 @@
+Extracting text from z_extra/cat_gr_2526.pdf...
+
+--- Page 170 ---
+
+ 
+148 | Page  
+ 
+Graduate certificate seeking students must submit their Graduate Certificate Completion Form to the Office of Graduate 
+Certificates by the deadline to apply for graduation (the fourth week) of the semester in which they will complete the final 
+course(s) for their graduate certificate.  Please consult the Academic Calendar  for graduation application deadlines. 
+• For Graduate Certificate Seeking Students concurrently enrolled in a graduate degree, the student must be admitted 
+into the graduate certificate prior to conferring their concurrent graduate degree.   
+• For all Graduate Certificate Seeking Students, a Completion Form must be submitted no later than five years after 
+starting the first course applied to the graduate certificate.  
+All students must be active at the time the Graduate Certificate Completion Form is submitted.    
+The department/school offering the graduate certificate will certify the student for the graduate certificate once the 
+requirements are successfully completed. The Graduate Certificate Completion Form is approved by the department/school, 
+college, and Office of Graduate Studies. Courses may not be applied to a graduate certificate once the degree is conferred, 
+unless an approved application for the graduate certificate is on file before the last day of  classes in the semester when the 
+graduate degree is conferred.  
+
+==================================================
+
+
+--- Page 171 ---
+
+ 
+149 | Page  
+ 
+College Information  
+• Bellini College of Artificial Intelligence, Cybersecurity, and Computing   
+• College of Arts and Sciences     
+o College of Arts and Sciences: School of Humanities  
+o College of Arts and Sciences: School of Natural Sciences and Mathematics    
+o College of Arts and Sciences: School of Social Sciences    
+• College of Behavioral and Community Sciences  
+• College of Design, Art and Performance    
+• College of Education   
+• College of Engineering   
+• College of Graduate Studies   
+• College of Marine Science   
+• College of Nursing   
+• College of Public Health   
+• Judy Genshaft Honors College 
+• Morsani College of Medicine  
+• Muma College of Business    
+• Patel College of Global Sustainability   
+• Taneja College of Pharmacy   
+  
+Office of Graduate Studies 
+Office of Undergraduate Studies 
+USF Libraries 
+
+==================================================
+
+
+--- Page 172 ---
+
+ 
+150 | Page  
+ 
+Bellini C ollege of A rtificial Intelligence, C ybersecurity, and 
+C omputing (A I)  
+College Information 
+Mission Statement  
+About the College 
+Collaboration with Other Colleges and Departments 
+Programs and Certificates 
+University of South Florida 
+Bellini College of Artificial Intelligence, Cybersecurity and Computing  
+4202 E. Fowler Ave LIB 608 
+Tampa, FL 33620 
+Web address: usf.edu/bellinicollege  
+Phone: 813-974-3652 
+Email: bellini-collegecommunications@usf.edu 
+Interim College Dean: Sudeep Sarkar, Ph.D. 
+Associate Deans: 
+•    Ken Christensen, Professor and Associate Dean of Academic Affairs  
+•    Lawrence Hall, Distinguished University Professor, Professor and Associate Dean of Research Innovation  
+•    Jay Ligatti, Professor and Associate Dean of Faculty Affairs 
+Mission Statement
+ 
+The mission of the Bellini College of Artificial Intelligence, Cybersecurity and Computing is to transform the role of computing 
+technologies in society by focusing on three key areas: 
+1. Delivering High-Demand Academic Programs: Deliver a comprehensive range of undergraduate, graduate, and 
+professional majors, both disciplinary and interdisciplinary, in artificial intelligence, cybersecurity and computing. The 
+majors are pedagogically effective and designed with high standards to be rigorous, relevant and meet the current 
+and future needs of industry, government and society. 
+2. Advancing Research Excellence: Focus on innovative investigations and technological advances to elevate the state 
+of artificial intelligence, cybersecurity and computing research. Push the boundaries of knowledge in our fields, 
+facilitating collaboration and innovation across all academic disciplines and fostering an environment that 
+encourages curiosity, creativity and critical thinking. 
+3. Promoting Ethics and Trust: Instill a deep sense of responsibility in our students and faculty, emphasizing the 
+importance of secure and trustworthy technology. Through research, curricula, industry partnerships and community 
+engagement, promote ethically driven policies and practices that protect privacy, ensure security and foster social 
+good. 
+About the College
+ 
+Established in 2024, the Bellini College of Artificial Intelligence, Cybersecurity and Computing is the first of its kind in Florida 
+and one of the pioneers in the nation to bring together the disciplines of artificial intelligence, cybersecurity and compu ting 
+into a dedicated college. We aim to position Florida as a global leader and economic engine in AI, cybersecurity and 
+
+==================================================
+
+
+--- Page 173 ---
+
+ 
+151 | Page  
+ 
+computing education and research. We promote interdisciplinary innovation and ethical technology development through 
+strong industry and government partnerships. 
+We empower our students and faculty to drive responsible, secure technological advancements across all disciplines, 
+contributing to a society that values ethical considerations and trusts in digital transformation.  
+The college serves as a central hub for advancing foundational knowledge and interdisciplinary collaborations, catalyzing 
+innovation across all academic fields. By integrating AI and cybersecurity expertise into varied disciplines, the college fos ters 
+a seamless environment where ethical, secure and responsible computing technologies are developed. This mission -driven 
+approach positions our college to meet the growing demand for computing professionals and aligns with USF's goal of being a 
+national leader in high-impact, socially responsible technology development. 
+The college's structure is both integrative and pioneering, applying a "hub-and-spoke" model to maintain strong ties with 
+colleges across USF while serving as a dedicated focal point for artificial intelligence, cybersecurity and computing educati on 
+and research. This cross-cutting approach facilitates agile responses to technological advancements and creates a vibrant 
+space for interdisciplinary research. By anchoring foundational expertise within and promoting collaboration with other units , 
+the college strengthens USF's capacity to tackle complex societal challenges through cutting -edge research and to provide a 
+comprehensive educational pathway that prepares students for diverse careers in the fast -evolving, technology-driven digital 
+landscape. 
+For more information or to explore specific degree offerings, visit the Bellini College of AI, Cybersecurity and Computing's 
+website: https://www.usf.edu/caicc/. 
+Collaboration with Other Colleges and Departments 
+For current information, see https://www.usf.edu/ai-cybersecurity-computing/academics/joint-affiliated-programs-
+certificates.aspx 
+Programs and Graduate Certificates 
+The list of programs and graduate certificates may be viewed on Programs by College/Department  
+
+==================================================
+
+
+--- Page 174 ---
+
+ 
+152 | Page  
+ 
+D epartment of A rtificial Intelligence, C ybersecurity, and 
+Computi ng ( AICC)  
+
+==================================================
+
+
+--- Page 175 ---
+
+ 
+153 | Page  
+ 
+A rtificial Intelligence, M .S .A .I.  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Department of Artificial Intelligencer, Cybersecurity, and Computing  
+Major Contacts, Deadlines, and Delivery Information 
+  
+This major shares a core with the Cybersecurity, M.S.C.Y.S.  
+The Master of Science in Artificial Intelligence (M.S.A.I.) provides comprehensive training in foundational computer 
+science and artificial intelligence concepts while emphasizing practical applications and real -world problem-solving. Designed 
+specifically for students without an undergraduate degree in Computer Science or Computer Engineering, the program equips 
+graduates with the technical skills necessary to transition into AI-focused roles across various industries. The M.S.A.I. is 
+available in both in-person and online formats, offering flexibility to accommodate diverse learning needs. Due to the 
+interdisciplinary nature of AI and the diverse applications it encompasses, students are encouraged to work closely with the 
+Graduate Director to develop a cohesive plan of study tailored to their individual goals. Applicants with prior computing 
+backgrounds are advised to consider the M.S. in Computer Science program or the AI Graduate Certificate for a more 
+advanced pathway. 
+Major Research Areas: 
+Machine learning (ML), neural networks, deep learning, natural language processing (NLP), computer vision, robotics and 
+autonomous systems, knowledge representation and reasoning, ethics and policy in AI, AI tools and frameworks, AI in 
+healthcare, finance, education, marketing, and other industries 
+Admission Information 
+Must meet University Admission and English Proficiency requirements as well as requirements for admission to the major, 
+listed below. 
+• Three letters of recommendation. 
+• Statement of purpose. 
+• Resume. 
+• PDF of unofficial transcripts. 
+• PDF of English proficiency, if needed. 
+• Evidence of mathematics, problem-solving, and quantitative reasoning abilities either through undergraduate 
+coursework or standardized test scores, such as GRE quantitative score.  
+Curriculum Requirements 
+Total Minimum hours: 31 Credit Hours  
+•    Shared Core Requirements - 6 Credit Hours 
+•    Additional required courses -16 Credit hours 
+•    Electives - 9 Credit Hours 
+Shared Core Requirements (6 Credit Hours) 
+Successful completion with a letter grade "B" or better of the two core graduate -level courses is required. 
+• CAI 5005 Introduction to Artificial Intelligence Credit Hours: 3 
+
+==================================================
+
+
+--- Page 176 ---
+
+ 
+154 | Page  
+ 
+• COP 6536 Advances in Data Structures for IT Credit Hours: 3 
+Additional Required Courses (16 Credit Hours) 
+Successful completion with a letter grade "B" or better: 
+• COP 5008 Computing Essentials Credit Hours: 2 
+• COT 5105 Discrete Structures Essentials Credit Hours: 2 
+• COP 5532 Data Structures Essentials Credit Hours: 2 
+• CAI 5035 Mathematics for Artificial Intelligence Credit Hours: 3 
+• COP 5230 Object-Oriented Programming Essentials Credit Hours: 2 
+• COT 5407 Algorithms Essentials Credit Hours: 2 
+• CAI 5026 Ethical Issues in Artificial Intelligence Credit Hours: 3 
+Electives (9 Credit Hours Minimum) 
+With prior permission from the Graduate Director, students can take a maximum of 3 hours of Independent Study or 
+Internship, a maximum of three (3) hours of one-hour seminar courses. 
+Graduate elective courses are separated into two categories: deepening and broadening. Students must select at least 6 
+hours from the list of deepening electives and at least 3 hours from the list of broadening electives in consultation with the 
+Graduate Director. 
+Examples of deepening AI courses (6 Credit Hours):  
+• CAI 5135 Data Mining Credit Hours: 3 
+• CAI 5205 Deep Learning Credit Hours: 3 
+• CAI 5307 Natural Language Processing Credit Hours: 3 
+• CAI 5615 Affective Computing Credit Hours: 3 
+• CAI 5815 Autonomous Mobile Robots Credit Hours: 3 
+• CAI 5845 Computer Vision Credit Hours: 3 
+• CAI 5846 Digital Image Processing Credit Hours: 3 
+• CAI 6605 Trustworthy AI Systems Credit Hours: 3 
+• CAP 6100 Human Computer Interface Credit Hours: 3 
+• CAP 6109 Brain-Computer Interfaces Credit Hours: 3 
+• CAP 6455 Advanced Robotic Systems Credit Hours: 3 
+• CAP 6632 Automated Reasoning and Theorem Proving Credit Hours: 3 
+• CAP 6672 Robot Intelligence and Computer Vision Credit Hours: 3 
+• CIS 6900 Independent Study Credit Hours: 1-19 
+• CIS 6930 Special Topics Credit Hours: 1-5 
+taken as: 
+• Topics in NLP (3 Credit Hours for this program) 
+• Social Network Analysis (3 Credit Hours for this program) 
+• Security & Privacy in ML (3 Credit Hours for this program) 
+• Hardware Accelerators for ML (3 Credit Hours for this program)    
+• Augmented Reality (3 Credit Hours for this program) 
+• Computational Methods for Imaging (3 Credit Hours for this program) 
+• Smart & Connected Health (3 Credit Hours for this program) 
+• Seminar in AI Credit Hours: (1 Credit Hour for this program) 
+
+==================================================
+
+
+--- Page 177 ---
+
+ 
+155 | Page  
+ 
+• CIS 6946 Internships/Practicums/Clinical Practice Credit Hours: 0-3 
+• Or other graduate course approved by the Graduate Director 
+  
+Examples of broadening AI elective courses (3 Credit Hours): 
+• ISM 7930 Selected Topics in Management Information Systems Credit Hours: 1-3 taken as Fundamentals of AI 
+(3 Credit Hours for this program) 
+• RED 6449 AI Literacy and Technology: Navigating Extended Reality, Interactive Media, Gaming, and Cyberspace 
+Credit Hours: 3 
+• Special Topics Course taken as AI Literacy and Technology, Navigating Extended Reality, Interactive Media, 
+Gaming, and Cyberspace (3 Credit Hours for this Program) (Proposed as RED 5449)  
+• JOU 5367 AI and the Future of Media: Trends, Technologies & Ethics Credit Hours: 3 
+• Or other graduate course approved by the Graduate Director 
+Comprehensive Exam 
+Students must pass the comprehensive exam in the semester prior to the semester of graduation.  
+Exit Survey 
+All students are required to complete the College exit survey. 
+
+==================================================
+
+
+--- Page 178 ---
+
+ 
+156 | Page  
+ 
+Big Data Analytics, Ph.D.  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Department: Dean's Office  
+Major Contacts, Deadlines, and Delivery Information 
+  
+The Ph.D. in Big Data Analytics is an interdisciplinary area of scientific methods, processes and systems to extract 
+knowledge and insight from large, diverse data sets that include structured, semi -structured and unstructured data, from 
+different sources, and in different sizes.  This interdisciplinary major comprises faculty from Artificial Intelligence, Computer 
+Science, Engineering, Business, Arts and Sciences, Public Health, and other areas.   Students in the program will develop 
+broad theoretical and applied skills, including how to design, implement, and evaluate information -focused big data 
+technologies that support decision-making across social and organizational contexts. 
+Major Research Areas: 
+Big Data, Data Analytics, Data Mining, Database Management, Statistical Computing, Ethics and Human Factors, Artificial 
+Intelligence, Machine Learning, Data Science, Experiment Design  
+Admission Information 
+Must meet University Admission and English Proficiency requirements as well as requirements for admission to the major, 
+listed below. 
+• Three letters of recommendation 
+• Personal statement of purpose/interest 
+• Resume/CV 
+• PDF of unofficial or official transcripts 
+• PDF of English proficiency, if needed 
+• Master's degree in a relevant area preferred 
+• Prior training and/or experience in technology, including areas such as computer programming through data 
+structures, database management systems, linear algebra, and networking and graph theory.   Each student will be 
+reviewed to determine their level of technical qualifications to pursue the Ph.D.  If deficiencies are noted, additional 
+suggested coursework may be required for admission. 
+• The GRE is suggested but not required.  Applicants may provide a PDF of unofficial GRE scores.  
+All applications will be reviewed by an interdisciplinary Doctoral Program Committee that will be charged with making 
+recommendations for admissions.  This committee will also, as applicable, recommend applications for consideration for 
+financial aid or assistantships that are available. 
+  
+Foundation Courses 
+Students are expected to have completed coursework in the foundation areas of data structures, linear algebra and graph 
+theory prior to entering the program.   
+•    COP 5532 Data Structures Essentials (2 credits) 
+•    COP 5008 Computing Essentials (2 credits) 
+•    COT 5105 Discrete Structures Essentials (2 credits) 
+•    COP 5230 Object-Oriented Programming Essentials (2 credits) 
+•    COT 5407 Algorithms Essentials (2 credits)        
+
+==================================================
+
+
+--- Page 179 ---
+
+ 
+157 | Page  
+ 
+•    MAS 3105 Linear Algebra -(3 credits) (refer to Undergraduate Catalog for information)    
+•    MAD 4301 Introduction to Graph Theory - (3 credits) (refer to Undergraduate Catalog for information)    
+Students can demonstrate proficiency in these areas by having completed coursework at USF (Courses or Certificate) or 
+equivalent courses at a different institution, as approved by the Graduate Director before registration in the program's core 
+courses. These credits do not count as part of the Ph.D. minimum hour requirements.  
+Curriculum Requirements 
+Total Minimum Hours - 72 hours post-bachelor's 
+• Core - 6 Credit Hours 
+• Human Issues Courses - 15 Credit Hours 
+• Computational Factors Courses - 12 Credit Hours 
+• Mathematical/Statistical Courses - 9 Credidt Hours 
+• Electives - 3 Credit Hours  
+• Practicum/Independent Study - 3 Credit Hours Minimum 
+• Dissertation - 24 Credit Hours Minimum 
+Core (6 Credit Hours) 
+• CAI 5005 Introduction to Artificial Intelligence Credit Hours: 3 
+• ISM 7936 Design Science Research Seminar Credit Hours: 3 
+Course Requirements: 
+The curriculum is divided into three different areas (Human Issues, Computational Factors, and Mathematical and   Statistical 
+Processes) from which students are required to gain competency.  
+Students must take at least one course (or two if specified) from each of the categories listed below each area.    
+  
+Human Issues Courses (15 Credit Hours) 
+Ethics and Privacy (3 Credit Hours) 
+Select one: 
+• GEB 6445 Social, Ethical, and Legal Systems Credit Hours: 3 
+• GEB 6457 Ethics, Law and Sustainable Business Practices Credit Hours: 3 
+• CAI 5026 Ethical Issues in Artificial Intelligence Credit Hours: 3 
+Cognitive Biases Impact on Modeling, Decision Making (3 Credit Hours)  
+Select one: 
+• EXP 7099 Graduate Seminar in Experimental Psychology Credit Hours: 1-3 
+• EXP 6608 Cognitive Psychology Credit Hours: 3 
+
+==================================================
+

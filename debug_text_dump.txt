@@ -1,0 +1,624 @@
+DEBUG TEXT DUMP
+================================================================================
+
+PROGRAM: Computer Science Minor (UG Catalog, Target Page: 156)
+----------------------------------------
+Offset Calculation: No printed page number found. Using Naive=155
+EXTRACTED TEXT (Pages 156-159):
+```
+BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+156 
+ 
+Computer Science Minor 
+TOTAL MINOR HOURS: 15 
+The Computer Science minor covers key topics in the discipline and is an 15 credit hour program that is expected to 
+be attractive to students in the College of Engineering and to students in Mathematics and the Sciences (including 
+Physics, Chemistry, and Biology). 
+MINOR REQUIREMENTS 
+The Computer Science minor is open to all students, except for students majoring in Computer Science, Computer 
+Engineering, Artificial Intelligence, Information Technology, and Cybersecurity in the Bellini College, who meet the 
+prerequisites described below. 
+MINOR CORE (9 CREDIT HOURS) 
+• COP 3514 - Program Design Credit(s): 3 
+• CDA 3103 - Computer Organization Credit(s): 3 
+• COP 4530 - Data Structures Credit(s): 3 
+ 
+MINOR ELECTIVES (6 CREDIT HOURS) 
+Two Technical electives of student's choice for which prerequisites have been met. See the Computer Science 
+degree program for a list of electives. 
+OTHER REQUIREMENTS 
+Students must register with the Bellini College Undergraduate Advisor prior to starting this minor program. 
+Consultation with the Undergraduate Advisor will ensure that students are informed of all offered courses. All catalog 
+prerequisites and registration requirements must be met for enrollment in any of the courses required for the minor. 
+All students desiring to pursue the minor must meet the same prerequisites, entry, and continuation requirements as 
+a Bellini College major. 
+Note: Introduction to Discrete Structures (COT 3100 or equivalent) is required as a prerequisite for COP 4530 - Data 
+Structures and COT 4400 - Analysis of Algorithms. 
+GPA REQUIREMENTS 
+All students desiring to pursue the minor must meet the same continuation requirements and course pre-requisite 
+requirements as a Bellini College major. 
+OTHER INFORMATION 
+Specialty tracks in hardware, software, and theory can be defined in consultation with the Undergraduate Advisor. A 
+specific pre-graduate school track intended for students planning to seek admission into the Bellini College graduate 
+program has been defined with 9 hours of electives. The electives are as follows. 
+Note: These electives may have prerequisites not met by the Minor Core. 
+• COT 4400 - Analysis of Algorithms Credit(s): 3 
+• COP 4600 - Operating Systems Credit(s): 3 
+• CDA 4205 - Computer Architecture Credit(s): 3 
+ADVISING INFORMATION 
+Bellini College Undergraduate Advisors: https://www.usf.edu/ai-cybersecurity-
+computing/academics/undergraduate/undergraduate-advising.aspx  BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+157 
+ 
+Information Technology Minor 
+TOTAL MINOR HOURS: 18 
+The Information Technology minor covers key topics in the discipline and is an 18 credit hour program that is 
+expected to be attractive to students in the College of Engineering and to students in Mathematics and the Sciences 
+(including Physics, Chemistry, and Biology) who have no background in software development. 
+MINOR REQUIREMENTS 
+The Information Technology minor covers key topics in the discipline and is an 18 credit hour program that is 
+expected to be attractive to students in the College of Engineering and to students in Mathematics and the Sciences 
+(including Physics, Chemistry, and Biology) who have no background in software development. 
+MINOR CORE (12 CREDIT HOURS) 
+• CGS 1540 - Introduction to Databases Credit(s): 3 
+• COP 2510 - Programming Concepts Credit(s): 3 
+• COP 2513 - Object Oriented Programming Credit(s): 3 
+• COP 3515 - Advanced Program Design Credit(s): 3 
+MINOR ELECTIVES (6 CREDIT HOURS) 
+Two approved IT electives of student's choice for which prerequisites have been met. See the Information 
+Technology degree program for a list of electives. 
+OTHER REQUIREMENTS 
+Students must register with the Bellini College Undergraduate Advisor prior to starting this minor program. 
+Consultation with the Undergraduate Advisor will ensure that students are informed of all offered courses. All catalog 
+prerequisites and registration requirements must be met for enrollment in any of the courses taken for the minor. 
+All students desiring to pursue the minor must meet the same prerequisites, entry, and continuation requirements as 
+a Bellini College major.  
+Note: Discrete Mathematics (MAD 2104 or equivalent) is required as a prerequisite for COP 3515 - Advanced 
+Program Design. 
+GPA REQUIREMENTS 
+All students desiring to pursue the minor must meet the same continuation requirements and course pre-requisite 
+requirements as a Bellini College major. 
+ADVISING INFORMATION 
+Bellini College Undergraduate Advisors: https://www.usf.edu/ai-cybersecurity-
+computing/academics/undergraduate/undergraduate-advising.aspx  BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+158 
+ 
+Artificial Intelligence, B.S.A.I. 
+TOTAL DEGREE HOURS: 120 
+The Artificial Intelligence program emphasizes the principles, techniques, and applications of artificial intelligence (AI) 
+systems. Core coursework includes machine learning, neural networks, algorithms, operating systems, software 
+engineering, and secure computing. To further broaden and deepen their expertise, students can choose from a wide 
+range of advanced electives in areas such as data mining, deep learning, reinforcement learning, natural language 
+processing, computer vision, robotics, and other topics. 
+Mission Statement 
+The mission of the Bellini College of Artificial Intelligence, Cybersecurity and Computing is to transform the role of 
+computing technologies in society by focusing on three key areas: 
+Delivering High-Demand Academic Programs: Deliver a comprehensive range of undergraduate, graduate, and 
+professional majors, both disciplinary and interdisciplinary, in artificial intelligence, cybersecurity and computing. The 
+majors are pedagogically effective and designed with high standards to be rigorous, relevant and meet the current 
+and future needs of industry, government and society. 
+Advancing Research Excellence: Focus on innovative investigations and technological advances to elevate the 
+state of artificial intelligence, cybersecurity and computing research. Push the boundaries of knowledge in our fields, 
+facilitating collaboration and innovation across all academic disciplines and fostering an environment that encourages 
+curiosity, creativity and critical thinking. 
+Promoting Ethics and Trust: Instill a deep sense of responsibility in our students and faculty, emphasizing the 
+importance of secure and trustworthy technology. Through research, curricula, industry partnerships and community 
+engagement, promote ethically driven policies and practices that protect privacy, ensure security and foster social 
+good. 
+Program Educational Objectives 
+The Bellini College has established the following program educational objectives for Artificial Intelligence graduates. 
+Objective 1: Our graduates will apply their knowledge and skills to succeed in their careers and/or obtain advanced 
+degrees. 
+Objective 2: Our graduates will function ethically and responsibly, and will remain informed though continuing 
+education,  and involved as full participants in their profession and society. 
+Objective 3: Our graduates will creatively solve problems, communicate effectively, and successfully function in 
+multi-disciplinary teams. 
+Objective 4: Our graduates will apply principles and practices of artificial intelligence and computing grounded in 
+theory and practice to successfully complete AI-related projects to meet customer business objectives and/or 
+productively engage in research. BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+159 
+ 
+UNIVERSITY ADMISSIONS - BELLINI COLLEGE OF AI, CYBERSECURITY AND 
+COMPUTING 
+Admission to the University and College is based on the University's Undergraduate Admission Requirements that 
+may be found by clicking on the following URLs: 
+Freshman: https://www.usf.edu/admissions/freshmen/admission-information/requirements-deadlines.aspx 
+Transfer: https://www.usf.edu/admissions/transfer/admission-information/index.aspx 
+International: https://www.usf.edu/admissions/international/admission-information/index.aspx 
+For Admission information specific to the Bellini College, see the information at Bellini College of AI, Cybersecurity 
+and Computing. 
+PROGRESSION REQUIREMENTS IN THE UPPER DIVISION - ARTIFICIAL 
+INTELLIGENCE, B.S.A.I. 
+Artificial Intelligence students who have fully met the requirements below and are in good academic standing, may 
+progress into the upper level of the major. Prior to progression into the upper level, a student may take no more than 
+two upper-level Bellini College courses. The college may have continuation requirements, which specify minimum 
+performance standards in core major courses which must be met before further registration is granted. 
+1. Ability to register for COP 4530 - Data Structures  
+2. A minimum overall GPA of 2.0 
+3. A minimum USF GPA of 2.0 
+COLLEGE POLICIES 
+In addition to the already stated Bellini College graduation requirements, the college has the following additional 
+policy: 
+• Exit interview and/or survey as a graduation requirement. 
+REQUIRED COURSES: (87 CREDIT HOURS) 
+STATE MANDATED COMMON COURSE PREREQUISITES - ARTIFICIAL 
+INTELLIGENCE, B.S.A.I. (25 CREDIT HOURS)* 
+Following Florida BOG Regulation 8.010, state mandated common course prerequisites are lower-division courses 
+that are required for progression into the upper division of a particular baccalaureate degree program.  
+Transfer students should complete the State Mandated Common Course Prerequisites at the lower level prior to 
+entering the university. If these courses are not taken at a Florida College System institution, they must be completed 
+before the degree is granted. Successful completion of the common prerequisites alone does not guarantee a student 
+admission into the degree program.  
+Unless stated otherwise, a grade of C is the minimum acceptable grade in prerequisite courses. 
+```
+
+GENERATED PROMPT (Snippet):
+
+    You are analyzing the catalog entry for the academic program: "Computer Science Minor" with credential "Minor".
+    
+    Based on the provided text, determine the following:
+    ... (Prompt Template) ...
+    4. **Total_Credit_Hours**: What is the total number of credit hours required for this degree?
+       ...
+       **How to interpret the text (2024-2025 Format):**
+       - Look for the section **"REQUIRED COURSES: (X CREDIT HOURS)"**.
+       - Look for **"Total Minimum Hours"** or similar phrases.
+       ...
+    
+    Text to analyze:
+    BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+156 
+ 
+Computer Science Minor 
+TOTAL MINOR HOURS: 15 
+The Computer Science minor covers key topics in the discipline and is an 15 credit hour program that is expected to 
+be attractive to students in the College of Engineering and to students in Mathematics and the Sciences (including 
+Physics, Chemistry, and Biology). 
+MINOR REQUIREMENTS 
+The Computer Science minor is open to all... (truncated for view)
+            
+================================================================================
+
+PROGRAM: Computer Engineering B.S.C.P. (UG Catalog, Target Page: 164)
+----------------------------------------
+Offset Calculation: No printed page number found. Using Naive=163
+EXTRACTED TEXT (Pages 164-167):
+```
+BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+164 
+ 
+Computer Engineering B.S.C.P. 
+TOTAL DEGREE HOURS: 120 
+The Computer Engineering program focuses on the design, development, and application of computer hardware and 
+software systems. The program devotes significant time to topics in computing circuits, digital logic design, computer 
+architecture, hardware design, and design automation, including extensive laboratory work. Additional course work in 
+algorithms, discrete structures, object-oriented design and data structures, operating systems, and a wide range of 
+advanced electives including quantum computing and artificial intelligence topics extend and supplement the core. 
+Mission Statement 
+The mission of the Bellini College of Artificial Intelligence, Cybersecurity and Computing is to transform the role of 
+computing technologies in society by focusing on three key areas: 
+Delivering High-Demand Academic Programs:  Deliver a comprehensive range of undergraduate, graduate, and 
+professional majors, both disciplinary and interdisciplinary, in artificial intelligence, cybersecurity and computing. The 
+majors are pedagogically effective and designed with high standards to be rigorous, relevant and meet the current 
+and future needs of industry, government and society. 
+Advancing Research Excellence:  Focus on innovative investigations and technological advances to elevate the 
+state of artificial intelligence, cybersecurity and computing research. Push the boundaries of knowledge in our fields, 
+facilitating collaboration and innovation across all academic disciplines and fostering an environment that encourages 
+curiosity, creativity and critical thinking. 
+Promoting Ethics and Trust:  Instill a deep sense of responsibility in our students and faculty, emphasizing the 
+importance of secure and trustworthy technology. Through research, curricula, industry partnerships and community 
+engagement, promote ethically driven policies and practices that protect privacy, ensure security and foster social 
+good. 
+Program Educational Objectives and Student Outcomes 
+The Bellini College has established the following program educational objectives for Computer Engineering 
+graduates. 
+Objective 1: Our graduates will apply their knowledge and skills to succeed in their careers and/or obtain advanced 
+degrees. 
+Objective 2: Our graduates will behave ethically and responsibly, will remain informed through continuing education, 
+and will be involved as full participants in their profession and society. 
+Objective 3: Our graduates will creatively solve problems, communicate effectively, and successfully function in 
+multi-disciplinary teams. 
+Objective 4: Our graduates will apply principles and best practices of computing based on sound data grounded in 
+mathematics and science to successfully complete hardware and/or software-related engineering projects to meet 
+customer business objectives and/or productively engage in research 
+ 
+UNIVERSITY ADMISSIONS - BELLINI COLLEGE OF AI, CYBERSECURITY AND 
+COMPUTING 
+Admission to the University and College is based on the University's Undergraduate Admission Requirements that 
+may be found by clicking on the following URLs: 
+Freshman: https://www.usf.edu/admissions/freshmen/admission-information/requirements-deadlines.aspx 
+Transfer: https://www.usf.edu/admissions/transfer/admission-information/index.aspx 
+International: https://www.usf.edu/admissions/international/admission-information/index.aspx 
+For Admission information specific to the Bellini College, see the information at Bellini College of AI, Cybersecurity 
+and Computing. 
+ 
+PROGRESSION REQUIREMENTS IN THE UPPER DIVISION BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+165 
+ 
+Computer Engineering students who have fully met the requirements below and are in good academic standing, may 
+progress into the upper level of the major. Prior to progression into the upper level, a student may take no more than 
+two upper-level Bellini College courses. The college may have continuation requirements, which specify minimum 
+performance standards in core major courses which must be met before further registration is granted. 
+1. Ability to register for COP 4530 - Data Structures  
+2. A minimum overall GPA of 2.0 
+3. A minimum USF GPA of 2.0 
+ 
+COLLEGE POLICIES 
+In addition to the already stated Bellini College graduation requirements, the college has the following additional 
+policy: 
+• Exit interview and/or survey as a graduation requirement. 
+ 
+REQUIRED COURSES: (96 CREDIT HOURS) 
+STATE MANDATED COMMON COURSE PREREQUISITES - COMPUTER 
+ENGINEERING B.S.C.P. (30 CREDIT HOURS)* 
+Following Florida BOG Regulation 8.010, state mandated common course prerequisites are lower-division courses 
+that are required for progression into the upper-division of a particular baccalaureate degree program. 
+Transfer students should complete the following prerequisite courses at the lower-level prior to entering the university. 
+If these courses are not taken at a Florida College System institution, they must be completed before the degree is 
+granted. Successful completion of common prerequisites alone does not guarantee a student admission into the 
+degree program. 
+Unless stated otherwise, a grade of C is the minimum acceptable grade in prerequisite courses. 
+• MAC X311 OR MAC X281 - 4 credit hours 
+• MAC X312 OR MAC X282 - 4 credit hours 
+• MAC X313 OR MAC X283 - 4 credit hours 
+• MAP X302 Differential Equations - 3 credit hours 
+• (CHM X045 AND CHM X045L) OR CHM X045C OR CHM X440C - 4 credit hours 
+• (PHY X048 AND PHYX048L) OR PHY X048C - 5 credit hours 
+• (PHY X049 AND PHY X049L) OR PHY X049C - 5 credit hours 
+• COP XXXX Intro Programming in C, C++, JAVA OR equivalent language** 
+* All state common prerequisite courses count towards major requirements and are not additional credit hours. 
+** Introductory Programming in C, C++, Java, OR equivalent language. Choose programming language required by 
+the university to which the student wishes to transfer. 
+ 
+STATE MATHEMATICS PATHWAY - COMPUTER ENGINEERING B.S.C.P (7 
+CREDIT HOURS)* 
+The Computer Engineering B.S.C.P. uses the Algebra through Calculus Mathematics Pathway with the following 
+requirements: 
+• MAC 1105 - College Algebra Credit(s): 3 ** 
+• MAC 2311 - Calculus I Credit(s): 4 
+* Mathematics Pathway courses count towards the State Common Prerequisite math courses and are not additional 
+credits. 
+** Students may place out of MAC 1105 and begin at a higher-level math class. 
+ 
+MAJOR CORE COURSES: 33 COURSES; 84 CREDIT HOURS 
+MATH AND SCIENCE COURSES: 14 COURSES; 38 CREDIT HOURS 
+• CHM 2045 - General Chemistry I Credit(s): 3 BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+166 
+ 
+• CHM 2045L - General Chemistry I Laboratory Credit(s): 1 
+• COT 3100 - Introduction to Discrete Structures Credit(s): 3 
+• EGN 2440 - Probability and Statistics with Calculus Credit(s): 3 
+• EGN 3433 - Modeling and Analysis of Engineering Systems Credit(s): 3 
+OR MAP 2302 - Differential Equations Credit(s): 3   
+• EGN 4450 - Introduction to Linear Systems Credit(s): 2 
+• MAC 2311 - Calculus I Credit(s): 4 
+• MAC 2312 - Calculus II Credit(s): 4 
+• MAC 2313 - Calculus III Credit(s): 4 
+• PHY 2048 - General Physics I - Calculus Based Credit(s): 3 
+• PHY 2048L - General Physics I Laboratory Credit(s): 1 
+• PHY 2049 - General Physics II - Calculus Based Credit(s): 3 
+• PHY 2049L - General Physics II Laboratory Credit(s): 1 
+• Natural Science Elective Credit(s): 3 
+ 
+BASIC ENGINEERING COURSES: 1 COURSE; 3 CREDIT HOURS 
+• EGN 2615 - Economical Analysis of Systems Credit(s): 3 
+ 
+SPECIALIZATION COURSES: 18 COURSES; 43 CREDIT HOURS 
+• CDA 3103 - Computer Organization Credit(s): 3 
+• CDA 3201 - Computer Logic and Design Credit(s): 3 
+• CDA 3201L - Computer Logic and Design Lab Credit(s): 1 
+• CDA 4021 - Computing Circuits Credit(s): 3 
+• CDA 4203 - Computer System Design Credit(s): 3 
+• CDA 4203L - Computer System Design Lab Credit(s): 1 
+• CDA 4205 - Computer Architecture Credit(s): 3 
+• CDA 4205L - Computer Architecture Lab Credit(s): 1 
+• CDA 4213 - CMOS-VLSI Design Credit(s): 3 
+• CDA 4213L - CMOS-VLSI Design Lab Credit(s): 1 
+• CIS 1930 - Freshman Seminar for Computing Credit(s): 0 
+• CIS 4250 - Ethical Issues and Professional Conduct Credit(s): 3 
+• CIS 4910 - Computer Science and Engineering Project Credit(s): 3 
+• COP 2510 - Programming Concepts Credit(s): 3 
+• COP 3514 - Program Design Credit(s): 3 
+• COP 4530 - Data Structures Credit(s): 3 
+• COP 4600 - Operating Systems Credit(s): 3 
+• COT 4400 - Analysis of Algorithms Credit(s): 3 
+ 
+MAJOR ELECTIVES: 12 CREDIT HOURS 
+Computer Engineering students must choose 6 hours of hardware electives and an additional non-overlapping 
+6 hours of CSE electives ("software", "hardware", "AI", or "theory") in the College. 
+The undergraduate section of the Bellini College website contains the most up to date list of approved artificial 
+intelligence electives. Additional electives may be available with a special topics course number (typically, CIS 4930). 
+The prerequisite for most, but not all, college upper-level technical electives is COP 4530 - Data Structures. The 
+prerequisite for AI electives is CAI 4002 - Introduction to Artificial Intelligence. Consult with the undergraduate Bellini 
+College advising team to learn more about available electives. A maximum of six (6) hours of CIS 4900 and/or any 
+other supervised individual study (including CIS 4915 and CIS 4940) are allowed as CSE electives. BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+167 
+ 
+ 
+HARDWARE ELECTIVES: 6 CREDIT HOURS 
+• CDA 4253 - Field Programmable Gate Array System Design and Analysis Credit(s): 3 
+• CDA 4321 - Cryptographic Hardware and Embedded Systems Credit(s): 3 
+• CDA 4322 - Principles of Secure Hardware Design Credit(s): 3 
+• CDA 4323 - Practical Hardware Security Credit(s): 3 
+ 
+TECHNICAL ELECTIVES: 6 CREDIT HOURS 
+• CAI 4002 - Introduction to Artificial Intelligence Credit(s): 3 
+• CAI 4841 - Computer Vision Credit(s): 3 
+• CAI 4842 - Image Processing Fundamentals Credit(s): 3 
+• CAP 4034 - Computer Animation Fundamentals Credit(s): 3 
+• CAP 4103 - Mobile Biometrics Credit(s): 3 
+• CAP 4111 - Introduction to Augmented and Virtual Reality Credit(s): 3 
+• CAP 4160 - Brain-Computer Interfaces Credit(s): 3 
+• CAP 4628 - Affective Computing Credit(s): 3 
+• CAP 4641 - Natural Language Processing Credit(s): 3 
+• CAP 4662 - Introduction to Robotics Credit(s): 3 
+• CAP 4744 - Interactive Data Visualization Credit(s): 3 
+• CAP 4773 - Social Media Mining Credit(s): 3 
+• CDA 4253 - Field Programmable Gate Array System Design and Analysis Credit(s): 3 
+• CDA 4321 - Cryptographic Hardware and Embedded Systems Credit(s): 3 
+• CDA 4322 - Principles of Secure Hardware Design Credit(s): 3 
+• CDA 4323 - Practical Hardware Security Credit(s): 3 
+• CDA 4621 - Control of Mobile Robots Credit(s): 3 
+• CEN 4072 - Software Testing Credit(s): 3 
+• CIS 4212 - Privacy-Preserving and Trustworthy Cyber-Infrastructures Credit(s): 3 
+• CIS 4345 - Big Data Storage and Analysis with Hadoop Credit(s): 3 
+• CIS 4900 - Independent Study in Computer Science Credit(s): 1-5 
+• CIS 4915 - Supervised Research in Computer Science Credit(s): 0-5 
+• CIS 4930 - Special Topics in Computer Science I Credit(s): 1-3 
+(See department website for list of approved topics) 
+• CIS 4940 - Industry Internship Credit(s): 0-6 
+• CNT 4004 - Computer Networks I Credit(s): 3 
+• CNT 4411 - Computing and Network Security Credit(s): 3 
+• COP 4020 - Programming Languages Credit(s): 3 
+• COP 4365 - Software System Development Credit(s): 3 
+• COP 4520 - Computing in Massively Parallel Systems Credit(s): 3 
+• COP 4620 - Compilers Credit(s): 3 
+• COP 4710 - Database Design Credit(s): 3 
+• COT 4210 - Automata Theory and Formal Languages Credit(s): 3 
+• COT 4521 - Computational Geometry Credit(s): 3 
+• COT 4601 - Quantum Computing and Quantum Algorithms Credit(s): 3 
+ 
+INDUSTRY INTERNSHIP 
+```
+
+GENERATED PROMPT (Snippet):
+
+    You are analyzing the catalog entry for the academic program: "Computer Engineering B.S.C.P." with credential "B.S.C.P.".
+    
+    Based on the provided text, determine the following:
+    ... (Prompt Template) ...
+    4. **Total_Credit_Hours**: What is the total number of credit hours required for this degree?
+       ...
+       **How to interpret the text (2024-2025 Format):**
+       - Look for the section **"REQUIRED COURSES: (X CREDIT HOURS)"**.
+       - Look for **"Total Minimum Hours"** or similar phrases.
+       ...
+    
+    Text to analyze:
+    BELLLINI COLLEGE OF AI, 
+CYBERSECURITY AND COMPUTING 
+ 
+UNIVERSITY OF SOUTH FLORIDA 2025-2026 UNDERGRADUATE CATALOG 
+164 
+ 
+Computer Engineering B.S.C.P. 
+TOTAL DEGREE HOURS: 120 
+The Computer Engineering program focuses on the design, development, and application of computer hardware and 
+software systems. The program devotes significant time to topics in computing circuits, digital logic design, computer 
+architecture, hardware design, and design automation, including extensive laboratory work... (truncated for view)
+            
+================================================================================
+
+PROGRAM: Computer Engineering, M.S.C.P. (GR Catalog, Target Page: 161)
+----------------------------------------
+Offset Calculation: Naive=160, Found=139, Shift=22, NewIndex=182
+EXTRACTED TEXT (Pages 183-186):
+```
+ 
+161 | Page  
+ 
+C omputer Engineering, M .S .C .P .  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Major Contacts, Deadlines, and Delivery Information 
+Also offered as a Bachelor's/Master's Pathway 
+The Master of Science in Computer Engineering (M.S.C.P.) graduate program combines advanced coursework and 
+research opportunities in areas related to computing systems, software, hardware, and algorithms.   It equips students with 
+advanced skills in computer engineering and software development, inclu ding but not limited to (a) the co-development of 
+hardware and software, (b) efficient, low-power and low-energy realization of emerging applications, and (c) AI-driven 
+automation to enhance system security.  Students learn to design optimized hardware and explore advanced topics like digital 
+circuit design, computer architecture, and embedded systems.  
+  
+The curriculum also covers emerging fields in hardware and computer engineering, including quantum computing, 
+neuromorphic engineering, edge computing, and hardware acceleration.   Graduates are prepared to address complex 
+challenges in creating secure, efficient, and intelligent systems tailored to the demands of modern technology.  
+  
+Major Research Areas: 
+Interconnected hardware and software, Computer-Aided Design (CAD) of Integrated Circuits (ICs), AI chips, hardware and 
+software security, computer architecture, computer networks, distributed systems, embedded systems, formal verification, 
+robotics, databases, software engineering, compilers, programming languages, and VLSI design.  
+Admission Information 
+Must meet University Admission and English Proficiency requirements as well as requirements for admission to the major, 
+listed below. 
+• The GRE is required except for US domestic applicants with an undergraduate degree from ABET -accredited degree 
+programs, or from a Carnegie R1 university, or for applicants who have successfully completed USF Pathway to 
+Computing (PTC) Graduate Certificate 
+• Three letters of recommendation 
+• Statement of purpose 
+• Resume 
+• PDF of unofficial GRE Scores 
+• PDF of unofficial transcripts 
+• PDF of English proficiency, if needed.  
+• Students applying to this program are expected to have a solid foundation in mathematics and core areas of 
+computer science and computer engineering, such as logic design, computer architecture, data structures, operating 
+systems, and algorithms. 
+• Applicants without the required background in computing must complete the Pathway to Computing (PTC) Graduate 
+Certificate prior to starting the rest of the coursework in the curriculum. This certificate helps them acquire the 
+necessary mathematical and computing foundations. Must maintain an overall 3.0 GPA in all referenced graduate 
+certificate coursework. PTC courses cannot be counted as electives toward the degree. (Note: PTC is a program with 
+a different tuition rate.)  
+Curriculum Requirements  
+162 | Page  
+ 
+Pathway to Computing (PTC) Graduate Certificate - 15 Credit Hours (Note: PTC has a different tuition rate)** 
+Total Minimum Hours: 30 Credit Hours 
+• Core Requirements - 6 Credit Hours 
+• Electives - 15 Credit Hours Minimum 
+• Non-thesis Option - additional 9 hours of electives 
+• Thesis Option - 9 Credit Hours Minimum 
+*Students with a bachelor's degree in Computer Science, Computer Engineering, or related field from  an accredited 
+institution complete a minimum of 30 credit hours.  
+**Students without a bachelor's degree in Computer Science, Computer Engineering, or related field from an accredited 
+institution complete a minimum of 45 credit hours, including the Pathway to Computing Graduate Certificate coursework.  
+  
+Core Requirements: (6 Credit Hours) 
+Successful completion with a letter grade of "B" or better of two core graduate- level courses is required: 
+• EEL 6764 Principles of Computer Architecture Credit Hours: 3 
+• COT 6405 Introduction to the Theory of Algorithms Credit Hours: 3 
+Electives (15 Credit Hours Minimum) 
+Students in the thesis option complete a minimum of 15 credit hours of electives.  
+Students in the non-thesis option complete a minimum of 24 credit hours of electives. 
+  
+With prior permission from the Graduate Director, students can take a maximum of three (3) hours of Independent Study or 
+Internship, a maximum of three (3) hours of one-hour seminar courses, and up to one graduate level course (3 credit hours) 
+outside the department. 
+Students must select the graduate elective courses in consultation with the Graduate Director or individual advisor.  
+Non-thesis students need to take a minimum of nine (9) credits from the list of electives that are hardware related in the 
+following topic areas: artificial intelligence, machine learning, computer architecture, distributed systems, embedded 
+systems, expert systems, formal verification, computer security, or VLSI design and CAD as determined by the Graduate 
+Director and documented in the Plan of Work. 
+Examples of Courses: 
+• CAI 5005 Introduction to Artificial Intelligence Credit Hours: 3 
+• CAI 5107 Machine Learning Credit Hours: 3 
+• CAI 5815 Autonomous Mobile Robots Credit Hours: 3 
+• CAP 6101 Mobile Biometrics Credit Hours: 3 
+• CAP 6109 Brain-Computer Interfaces Credit Hours: 3 
+• CAP 6110 Augmented Reality Credit Hours: 3 
+• CAP 6455 Advanced Robotic Systems Credit Hours: 3 
+• CAP 6505 Smart and Connected Health Credit Hours: 3 
+• CDA 5416 Computer System Verification Credit Hours: 3 
+• CDA 6328 Cryptographic Hardware and Embedded Systems Credit Hours: 3 
+• CIS 6214 Privacy-Preserving and Trustworthy Cyber-Infrastructures Credit Hours: 3 
+• COP 6527 Computing in Massively Parallel Systems Credit Hours: 3  
+163 | Page  
+ 
+• CIS 6900 Independent Study Credit Hours: 1-19 
+• CIS 6930 Special Topics Credit Hours: 1-5 
+taken as: 
+• Security & Privacy in ML (3 Credit Hours for this program) 
+• Hardware Accelerators for ML (3 Credit Hours for this program) 
+• Quantum Computing & Algorithms (3 Credit Hours for this program) 
+• Emerging Topics in Net Security (3 Credit Hours for this program) 
+• CMOS- VLSI Design (3 Credit Hours for this program) 
+• Wireless & Mobile Computing (3 Credit Hours for this program) 
+• Practical Hardware Security (3 Credit Hours for this program) 
+• Seminar in AI (1 Credit Hour for this program) 
+• CIS 6946 Internships/Practicums/Clinical Practice Credit Hours: 0-3 
+Or other graduate course approved by the Graduate Director 
+Thesis Option (9 Credit Hours Minimum) 
+The thesis option requires nine (9) credit hours of thesis in computer engineering related problems, as determined by the 
+Major Professor and documented in the Plan of Work. 
+• CIS 6971 Thesis: Master's Credit Hours: 2-19 (9 Credit Hours Minimum) 
+Non-Thesis Option (9 Credit Hours Minimum) 
+The non-thesis option requires an additional nine (9) credit hours of graduate level electives for a total of 24 credit hours of 
+electives selected in consultation with the Graduate Director. 
+Comprehensive Exam 
+For students taking the thesis option, the requirement for a comprehensive exam is satisfied by the successful completion and  
+defense of the thesis.  Non-thesis option students must pass the comprehensive exam in the semester prior to the semester of 
+graduation. 
+Exit Survey 
+All students are required to complete the college exit survey.  
+164 | Page  
+ 
+Computer Science and Engineering, Ph.D.  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Major Contacts, Deadlines, and Delivery Information 
+  
+The Ph.D. in Computer Science and Engineering is designed for those driven to innovate at the forefront of computing 
+and technology. This program emphasizes advanced research in areas such as artificial intelligence, cybersecurity, computing 
+hardware and sensors, human-centered computing, networks and computing systems, equipping graduates with deep 
+expertise to tackle real-world challenges. Students work alongside renowned faculty in cutting-edge laboratories, gaining 
+hands-on experience with transformative technologies and methodologies. 
+Graduates of the program are prepared for leadership roles in academia, industry, and government, capable of advancing 
+scientific knowledge and developing novel solutions to complex engineering problems. By completing the Ph.D., students not 
+only contribute to the evolution of computing but also open doors to prestigious careers in research, development, and 
+entrepreneurship. 
+Major Research Areas:  
+Major research areas of computer science and engineering, include but not limited to, Artificial Intelligence (AI) and Machin e 
+Learning (ML), Cybersecurity, Computer Vision, Natural Language Processing, Robotics, Human -Centered Computing, 
+Human Computer Interaction, Networking and Distributed Systems, Computer Architecture, Software Engineering, and 
+Embedded Systems. 
+Admission Information 
+Must meet University Admission and English Proficiency requirements as well as requirements for admission to the major, 
+listed below. 
+• Three letters of recommendation 
+• Statement of purpose 
+• Resume/CV 
+• PDF of unofficial or official transcripts 
+• PDF of English proficiency, if needed 
+• Applicants typically have a Bachelor's degree in Computer Science, Computer Engineering, a related field, or a STEM 
+field, broadly construed, with a GPA well above 3.00 on a 4.00 scale.  Applicants are encouraged to have basic 
+knowledge of programming, data structures, logic design, computer architecture, operating systems, and algorithms.  
+• The GRE is suggested but not required.  Applicants may provide a PDF of unofficial GRE scores. 
+Curriculum Requirements 
+Total Program hours: 
+72 minimum (post-bachelor's) 
+42 minimum (post-master's) 
+A minimum of 72 semester hours including dissertation hours beyond the baccalaureate degree are required of all Ph.D. 
+students 
+Post-Bachelor's: 72 hours minimum 
+```
+
+GENERATED PROMPT (Snippet):
+
+    You are analyzing the catalog entry for the academic program: "Computer Engineering, M.S.C.P." with credential "M.S.C.P.".
+    
+    Based on the provided text, determine the following:
+    ... (Prompt Template) ...
+    4. **Total_Credit_Hours**: What is the total number of credit hours required for this degree?
+       ...
+       **How to interpret the text (2024-2025 Format):**
+       - Look for the section **"REQUIRED COURSES: (X CREDIT HOURS)"**.
+       - Look for **"Total Minimum Hours"** or similar phrases.
+       ...
+    
+    Text to analyze:
+     
+161 | Page  
+ 
+C omputer Engineering, M .S .C .P .  
+Bellini College of Artificial Intelligence, Cybersecurity, and Computing (AI)  
+Major Contacts, Deadlines, and Delivery Information 
+Also offered as a Bachelor's/Master's Pathway 
+The Master of Science in Computer Engineering (M.S.C.P.) graduate program combines advanced coursework and 
+research opportunities in areas related to computing systems, software, hardware, and algorithms.   It equips students with 
+advanced skills in computer engi... (truncated for view)
+            
+================================================================================
+
